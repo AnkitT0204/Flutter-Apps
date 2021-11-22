@@ -13,4 +13,4 @@ Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaal
 
 
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
